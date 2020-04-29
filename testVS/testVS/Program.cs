@@ -10,8 +10,8 @@ namespace testVS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
-	    	Console.WriteLine("Add this in git Bash");
+            Console.WriteLine("Hello World!");
+	    	Console.WriteLine("Add this in git Bash"); 
         }
     }
 }
